@@ -1,15 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
 🔭 I'm looking for an internship starting October  
-📫 feel free to reach out to me via [email](mailto:hadida.lea@gmail.com)
+📫 Feel free to reach out to me via [email](mailto:hadida.lea@gmail.com)
 
-## 😄 About Me
+## 👩🏻‍💻 About Me
 
 ```yaml
 name: Léa
 located_in: Paris, France
 job: Dev Full Stack Junior | ex Communication Manager
 currently_learning: ["PHP", "Symfony", "JavaScript"]
+hobbies:📕🎵📺🏋🏻‍♀️🍩
 ```
 
 ## 💬 Quote
