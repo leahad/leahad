@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I'm looking for an internship starting October  
-📫 Feel free to reach me here[mailto:hadida.lea@gmail.com]
+📫 Feel free to reach me [here](mailto:hadida.lea@gmail.com)
 
 ## ✨ About Me
 
