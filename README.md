@@ -10,7 +10,7 @@ name: Léa
 located_in: Paris, France
 job: Dev Full Stack Junior | ex Communication Manager
 currently_learning: ["PHP", "Symfony", "JavaScript"]
-hobbies:📕🎵📺🏋🏻‍♀️🍩
+hobbies: ["📕", "🎵", "📺", "🏋🏻‍♀️", "🍩"]
 ```
 
 ## 💬 Quote
