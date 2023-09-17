@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Languages 
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leahad&layout=compact&langs_count=20&theme=dark)
+
 <!--
 **leahad/leahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
