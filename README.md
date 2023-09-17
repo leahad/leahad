@@ -18,7 +18,7 @@ currently_learning: ["PHP", "Symfony", "JavaScript"]
 
 — Amelia Earhart
 
-##⚡Languages 
+## ⚡ Languages 
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leahad&layout=compact&langs_count=20&theme=dark)
 
