@@ -3,7 +3,7 @@
 🔭 I'm looking for an internship starting October  
 📫 feel free to reach out to me via [email](mailto:hadida.lea@gmail.com)
 
-## ✨ About Me
+## 😄 About Me
 
 ```yaml
 name: Léa
@@ -18,20 +18,7 @@ currently_learning: ["PHP", "Symfony", "JavaScript"]
 
 — Amelia Earhart
 
-## 🎵 What gets me going while I'm working
-
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=t76t5cktkflxnhtnuh7m3giup&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=t76t5cktkflxnhtnuh7m3giup&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://adan-ea.vercel.app/api/top-played">
-</p>
-
-
-## Languages 
+##⚡Languages 
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leahad&layout=compact&langs_count=20&theme=dark)
 
