@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 🔭 I'm looking for an internship starting October  
-📫 Feel free to reach me here
-<a href="mailto:hadida.lea@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+📫 Feel free to reach me here[mailto:hadida.lea@gmail.com]
 
 ## ✨ About Me
 
