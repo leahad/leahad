@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-🔭 I'm looking for an internship starting October  
 📫 Feel free to reach out to me via [email](mailto:hadida.lea@gmail.com)
 
 ## 👩🏻‍💻 About Me
